@@ -13,6 +13,7 @@ Ele permite que iniciantes escrevam programas em **Portugol**, uma linguagem est
 - Preparar o estudante para linguagens de programação mais avançadas.  
 
 🌐 Onde baixar o VisualG?
+
 O download oficial está disponível no site do professor **Antonio Carlos Nicolodi** (criador do VisualG):  
 
 👉 [http://visualg3.com.br/](http://visualg3.com.br/)
