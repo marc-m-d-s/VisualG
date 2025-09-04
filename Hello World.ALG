@@ -10,7 +10,7 @@ Var
 
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreva ("Olá! digite o seu nome: ")
-   Leia (nome)
-   Escreva ("Seja bem vindo ",(nome),"!")
+   Escreva("Olá! digite o seu nome: ")
+   Leia(nome)
+   Escreva("Seja bem vindo ",(nome),"!")
 Fimalgoritmo
