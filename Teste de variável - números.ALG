@@ -1,4 +1,6 @@
 Algoritmo "Teste de Variável - Números"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 Var
    idade: inteiro
