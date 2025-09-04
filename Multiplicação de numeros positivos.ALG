@@ -8,10 +8,10 @@ Var
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-   Escreva ("Digite o primeiro número da multiplicação: ")
-   Leia (numero1)
-   Escreva ("Digite o segunado número da multiplicação: ")
-   Leia (numero2)
+   Escreva("Digite o primeiro número da multiplicação: ")
+   Leia(numero1)
+   Escreva("Digite o segunado número da multiplicação: ")
+   Leia(numero2)
    
    resultado := 0
    contador := 0
