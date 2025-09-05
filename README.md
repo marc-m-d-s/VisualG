@@ -16,7 +16,7 @@ Ele permite que iniciantes escrevam programas em **Portugol**, uma linguagem est
 
 O download oficial está disponível no site do professor **Antonio Carlos Nicolodi** (criador do VisualG):  
 
-👉 [http://visualg3.com.br/](http://visualg3.com.br/)
+👉 [Source Forge](https://sourceforge.net/projects/visualg30/)
 
 🖥️ Requisitos do Sistema
 
